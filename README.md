@@ -54,6 +54,7 @@ You should now see a x and the file should change color.
 And now you can try it
 ```
 ./example-script.bash
+```
 
 Once you did that you can call the teacher and let him check it. Before you go one with the exercices.
 
