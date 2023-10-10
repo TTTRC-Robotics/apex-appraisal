@@ -77,13 +77,13 @@ gh repo clone TTTRC-Robotics/<your-appraisal-repo> # note this one is unique for
 ## Exercices
 
 ### Exercice 1 - Use the command line tool
-Go to [exercice_1](exercice_1/README.md)
+Go to [exercice_1](exercice_1)
 ### Exercice 2 - Create a function
 Go to [exercice_2](exercice_2)
 ### Exercice 3 - Explain some code
-Go to [exercice_3](exercice_3/)
+Go to [exercice_3](exercice_3)
 ### Exercice 4 - Generate a Arduino Code from zero
-Go to [exercice_4](exercice_4/README.md)
+Go to [exercice_4](exercice_4)
 
 ## Test track run
 

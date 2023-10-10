@@ -80,4 +80,4 @@ In you pull request you should see at least 3 commits
 - Let me know any problem you add in the comments
 - Create pull request 
 
-Go to [exercice_3](../exercice_3/README.md)
+Go to [exercice_3](../exercice_3)

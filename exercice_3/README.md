@@ -16,7 +16,7 @@ To be able to evaluate the work you will generate a issue and store all the info
 
 You should then create a branch from inside the issue
 
-![Create a Branch](../exercice_2/img/1-create-branch.png)
+![Create a Branch](../exercice_2/img/4-create-branch.png)
 
 Then make sure you are in your repository and do :
 ```
@@ -43,4 +43,4 @@ In you pull request you should see at least 2 commits
 - Let me know any problem you add in the comments
 - Create pull request 
 
-Go to [exercice_4](../exercice_4/README.md)
+Go to [exercice_4](../exercice_4)

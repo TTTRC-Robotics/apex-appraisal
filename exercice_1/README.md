@@ -51,4 +51,4 @@ after commenting, it should look like this
 - Echo your username
 - Show me the manual of the function pwd
 
-Go to [exercice_2](../exercice_2/README.md)
+Go to [exercice_2](../exercice_2)
