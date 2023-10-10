@@ -52,7 +52,23 @@ chmod +x example-script.bash
 ./example-script.bash
 ```
 
-Once you did that you can call the teacher and let him check it. Before you go one with the exercices
+Once you did that you can call the teacher and let him check it. Before you go one with the exercices.
+
+You should now configure github to work on your computer.
+
+```
+gh auth login
+gh setup-git
+```
+
+And you should clone the repository
+
+I advise you to create a folder for this:
+```
+mkdir ~/workspace
+cd ~/workspace
+gh repo clone TTTRC-Robotics/<your-appraisal-repo> # note this one is unique for you
+```
 
 ## Exercices
 

@@ -28,5 +28,17 @@ For each of the items now, you will be asked to do the task and make a screensho
 4. Add the task and the screenshot to the issue Exercice 1
 
 ![Screenshot Example](img/4-example-screenshot.png)
+
+Add the text and image
+
 ![Screenshot Example](img/5-example-screenshot.png)
+
+after commenting, it should look like this
 ![Screenshot Example](img/6-example-screenshot.png)
+
+### Exercice
+
+- Go to the 
+- Go to the folder Documents of your home directory
+- Go to the folder Downloads of your home directory
+- Go to the folder /tmp
