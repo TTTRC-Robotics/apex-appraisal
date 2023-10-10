@@ -50,3 +50,5 @@ after commenting, it should look like this
 - Echo the path of the home directory
 - Echo your username
 - Show me the manual of the function pwd
+
+Go to [exercice_2](../exercice_2/README.md)
