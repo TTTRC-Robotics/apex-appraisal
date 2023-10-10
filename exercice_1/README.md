@@ -8,7 +8,9 @@ But first I will ask a you to generate a issue in Github with Firefox
 
 ![Generate Issue](img/1-create-issue.png)
 
-1. give it the Title : Exercice 1
+To be able to evaluate the work you will generate a issue and store all the info inside it.
+
+1. Give it the Title : Exercice 1
 1. Give it the comment : Use the command line tool
 1. Submit it
 
@@ -38,7 +40,7 @@ after commenting, it should look like this
 
 ### Exercice
 
-- Go to the <your-appraisal-repo>   # this is this repo that you should have cloned already
+- Go to the your-appraisal-repo folder   # this is this repo that you should have cloned already
 - Go to the folder Documents of your home directory
 - Go to the folder Downloads of your home directory
 - Go to the folder /tmp
