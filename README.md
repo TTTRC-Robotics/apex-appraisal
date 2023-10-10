@@ -40,17 +40,20 @@ drwxrwxr-x  2 flochre flochre  4096 Oct 10 14:58 step_2/
 drwxrwxr-x  2 flochre flochre  4096 Oct 10 14:58 step_3/
 ```
 
+You can make it executable
+```
+chmod +x example-script.bash
+```
+
 ```
 ll
 ```
 You should now see a x and the file should change color.
 ![executable](img/1-executable.png)
 
-You can make it executable and try it
+And now you can try it
 ```
-chmod +x example-script.bash
 ./example-script.bash
-```
 
 Once you did that you can call the teacher and let him check it. Before you go one with the exercices.
 

@@ -38,7 +38,13 @@ after commenting, it should look like this
 
 ### Exercice
 
-- Go to the 
+- Go to the <your-appraisal-repo>   # this is this repo that you should have cloned already
 - Go to the folder Documents of your home directory
 - Go to the folder Downloads of your home directory
 - Go to the folder /tmp
+- Create a directory inside the /tmp folder named apex-appraisal
+- Create a apex-appraisal.ino file inside the apex-appraisal folder
+- Go to the home directory
+- Echo the path of the home directory
+- Echo your username
+- Show me the manual of the function pwd
