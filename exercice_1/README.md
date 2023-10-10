@@ -1,6 +1,8 @@
 # Exercice 1
 
-Use the command line tool
+In this exercice you will be ask to prove your skills using the terminal
+
+But first I will ask a you to generate a issue in Github with Firefox
 
 ## Generate a issue in this repository
 
@@ -21,10 +23,10 @@ For each of the items now, you will be asked to do the task and make a screensho
 - Go to the folder Documents of your home directory
 
 1. Open you terminal
-2. enter the necessary command
+2. Enter the necessary commands
+3. Take a screenshot
+4. Add the task and the screenshot to the issue Exercice 1
 
-```
-cd Documents
-```
-
-Take a screenshot 
+![Screenshot Example](img/4-example-screenshot.png)
+![Screenshot Example](img/5-example-screenshot.png)
+![Screenshot Example](img/6-example-screenshot.png)
