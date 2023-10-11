@@ -116,10 +116,10 @@ commit and push
 You should explain your expectation of what the robot will be doing during the drive and explain a bit about the difficulties you had writting the code
 ### Step 3 - Run on the track
 
-The teacher will get your code online and flash it to the car.
-The drive should last 1 minutes 30 secondes
-The Robot should do what you said
-The Robot should not dramasticly hit the wall
-Hiting the wall in diagonale, with the angle were the USS do not see anything will not be considered
-The test Track will be separated into 6 areas, the robot should go on all 6 areas
-The robot should not stop moving longer than 4 secondes.
+-The teacher will get your code online and flash it to the car.
+-The drive should last 1 minutes 30 secondes
+-The Robot should do what you said
+-The Robot should not dramasticly hit the wall
+-Hiting the wall in diagonale, with the angle were the USS do not see anything will not be considered
+-The test Track will be separated into 6 areas, the robot should go on all 6 areas
+-The robot should not stop moving longer than 4 secondes.
