@@ -43,4 +43,6 @@ In you pull request you should see at least 2 commits
 - Let me know any problem you add in the comments
 - Create pull request 
 
+![Create Pull Request](../exercice_2/img/3-create-pr.png)
+
 Go to [exercice_4](../exercice_4)

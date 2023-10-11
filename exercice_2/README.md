@@ -80,4 +80,6 @@ In you pull request you should see at least 3 commits
 - Let me know any problem you add in the comments
 - Create pull request 
 
+![Create Pull Request](img/3-create-pr.png)
+
 Go to [exercice_3](../exercice_3)
