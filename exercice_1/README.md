@@ -41,14 +41,17 @@ after commenting, it should look like this
 ### Exercice
 
 - Go to the your-appraisal-repo folder   # this is this repo that you should have cloned already
-- Go to the folder Documents of your home directory
+- make a list of the files in your-appraisal-repo
+- make a detail list of the files in your-appraisal-repo
 - Go to the folder Downloads of your home directory
 - Go to the folder /tmp
-- Create a directory inside the /tmp folder named apex-appraisal
-- Create a apex-appraisal.ino file inside the apex-appraisal folder
-- Go to the home directory
+- Create a directory inside the /tmp folder named empty_sketch
+- Create a empty_sketch.ino file inside the empty_sketch folder
+- Go back to /tmp folder and move the folder empty_sketch containing the file  empty_sketch.ino into the folder Documents of your home directory
+- Go to the folder Documents of your home directory and remove the folder apex-appraisal and the file simultaniously
 - Echo the path of the home directory
 - Echo your username
 - Show me the manual of the function pwd
+- Show me the help of the function pwd
 
 Go to [exercice_2](../exercice_2)

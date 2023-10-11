@@ -88,5 +88,38 @@ Go to [exercice_4](exercice_4)
 ## Test track run
 
 ### Step 1 - Upload the code to Github
+
+![Generate Issue](exercice_1/img/1-create-issue.png)
+
+To be able to evaluate the work you will generate a issue and store all the info inside it.
+
+1. Give it the Title : Driving Code
+1. Give it the comment : Upload the code of a Driving Robot
+1. Submit it
+
+You should then create a branch from inside the issue
+
+![Create a Branch](exercice_2/img/4-create-branch.png)
+
+Then make sure you are in your repository and do :
+```
+git fetch origin
+git checkout 5-driving-code   # note: you branch name could be a little bit different
+```
+
+Copy your code of the Robot inside the folder
+add the file
+commit and push
+
 ### Step 2 - Explaination of the robot behavior
+
+You should explain your expectation of what the robot will be doing during the drive and explain a bit about the difficulties you had writting the code
 ### Step 3 - Run on the track
+
+The teacher will get your code online and flash it to the car.
+The drive should last 1 minutes 30 secondes
+The Robot should do what you said
+The Robot should not dramasticly hit the wall
+Hiting the wall in diagonale, with the angle were the USS do not see anything will not be considered
+The test Track will be separated into 6 areas, the robot should go on all 6 areas
+The robot should not stop moving longer than 4 secondes.
