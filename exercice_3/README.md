@@ -17,6 +17,7 @@ To be able to evaluate the work you will generate a issue and store all the info
 You should then create a branch from inside the issue
 
 ![Create a Branch](../exercice_2/img/4-create-branch.png)
+![Create a Branch](../exercice_2/img/2-create-branch.png)
 
 Then make sure you are in your repository and do :
 ```

@@ -17,18 +17,32 @@ To be able to evaluate the work you will generate a issue and store all the info
 You should then create a branch from inside the issue
 
 ![Create a Branch](img/1-create-branch.png)
+![Create a Branch](img/2-create-branch.png)
 
 Then make sure you are in your repository and do :
 ```
+cd ~/workspace/apex-appraisal-yourGhName
 git fetch origin
 git checkout 2-exercice-2   # note: you branch name could be a little bit different
+```
+
+You should now be in the new branch
+you can check it with 
+```bash
+$ git status
+On branch 2-exercice-2
+Your branch is up to date with 'origin/2-exercice-2'.
 ```
 
 ## Create a function
 
 Please make sure you commit and push after each fonction created
 
-Now that you are in the new branch, I want you to create 
+There is a file exercice_2/exercice2.ino
+
+You should edit it and add the following functions into it.
+
+
 - a function called do_nothing with:
   - no parameters
   - no return value
