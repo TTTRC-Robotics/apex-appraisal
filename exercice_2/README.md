@@ -58,6 +58,8 @@ git push
 ```
 - push your code
 
+You should edit exercice_2/exercice_2.ino again and add the following functions into it.
+
 - a function called multiplication with:
   - two int parameters called : number and factor
   - return a int
@@ -71,6 +73,8 @@ git add exercice_2/exercice_2.ino # this is an exemple could be a little bit dif
 git commit -m"add function multiplication"
 git push
 ```
+
+You should edit exercice_2/exercice_2.ino again and add the following functions into it.
 
 - a function called substraction with:
   - two int parameters called : number and decrement
