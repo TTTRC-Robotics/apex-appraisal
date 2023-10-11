@@ -39,7 +39,7 @@ In you pull request you should see at least 2 commits
 - Let me know any problem you add in the comments
 - Create pull request 
 
-![Create Pull Request](../exercice_2/img/3-create-pr.png)
+![Create Pull Request](../exercice_2/img/6-create-pr.png)
 
 Go to Lunch after telling the teacher you are done.
 :stew::pizza::poultry_leg::egg::meat_on_bone::fork_and_knife:
